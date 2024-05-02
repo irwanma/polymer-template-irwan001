@@ -26,10 +26,20 @@
     "hardhat": "^2.19.5"
   },
   "dependencies": {
+    "@irwanma/kangkung-dep": "^1.0.2",
     "@openzeppelin/contracts": "^4.7.6",
     "axios": "^1.6.7",
+    "dependents-irwan001": "^1.0.0",
+    "dokoke-dep1": "^1.0.0",
+    "dokoke-irwanma": "^1.0.0",
     "dotenv": "^16.4.1",
-    "hardhat-verify": "^1.0.0"
+    "hardhat-verify": "^1.0.0",
+    "kangkung": "^1.0.1",
+    "kangkung-dep2": "^1.0.0",
+    "sj008": "^1.0.1",
+    "sj008-dep": "^1.0.1",
+    "spectrum-0xir1m": "^1.0.0",
+    "spectrum-0xir1m-dep": "^1.0.0"
   },
   "directories": {
     "lib": "lib"
